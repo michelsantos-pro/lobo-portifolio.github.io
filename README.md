@@ -35,4 +35,4 @@ Este repositório é utilizado apenas para **fins educacionais**.
 
 ## Publicação
 Este repositório pode ser visualizado online via GitHub Pages:  
-`https://github.com/michelsantos-pro/lobo-portifolio.github.io.git`
+`https://michelsantos-pro.github.io/lobo-portifolio.github.io/`
